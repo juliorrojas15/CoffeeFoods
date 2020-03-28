@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "250948325672",
+    "firebase_url": "https://coffeetimefoods.firebaseio.com",
+    "project_id": "coffeetimefoods",
+    "storage_bucket": "coffeetimefoods.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250948325672:android:4eb107a346bfbc31b8c01d",
+        "android_client_info": {
+          "package_name": "com.example.coffeetimefoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250948325672-l2m24k80vp505pr6pfabqn0b3ohif8sm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coffeetimefoods",
+            "certificate_hash": "c1b5d7186ec7de0159fba977f99541efafd89be5"
+          }
+        },
+        {
+          "client_id": "250948325672-unk3ib38hmc8fgeer2hcgm0lusgc8nn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs8ySk7UGufykJ2-AyYjnVacW8hCFD1yE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250948325672-unk3ib38hmc8fgeer2hcgm0lusgc8nn5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

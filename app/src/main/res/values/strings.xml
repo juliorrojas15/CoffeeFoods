@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">CoffeeTimeFoods</string>
+    <string name="Cliente">CLIENTE</string>
+
+    <!-- HAMBURGUESAS   -->
+    <string name="NombreDeProducto">HAMBURGUESAS</string>
+
+    <string name="Presentación_1">Presentación_1</string>
+    <string name="Presentación_2">Presentación_2</string>
+    <string name="Presentación_3">Presentación_3</string>
+
+    <string name="Adicionales">ADICIONALES</string>
+    <string name="Adicional_1">Adicional_1</string>
+    <string name="Adicional_2">Adicional_2</string>
+    <string name="Adicional_3">Adicional_3</string>
+    <string name="Adicional_4">Adicional_4</string>
+    <string name="Adicional_5">Adicional_5</string>
+    <string name="Adicional_6">Adicional_6</string>
+
+    <string name="Opciones">OPCIONES</string>
+    <string name="Opción_1">Opción_1</string>
+    <string name="Opción_2">Opción_2</string>
+    <string name="Opción_3">Opción_3</string>
+    <string name="Opción_4">Opción_4</string>
+    <string name="Opción_5">Opción_5</string>
+    <string name="Opción_6">Opción_6</string>
+
+    <string name="Requerimientos">Requerimientos adicionales:</string>
+    <string name="ResumenOrden">Resumen de la Orden:</string>
+    <string name="Hora">Hora:</string>
+
+
+    <string name="bIzquierda"></string>
+    <string name="bDerecha"></string>
+    <string name="bAgregar">Agregar otro</string>
+    <string name="bBorrar">Borrar item</string>
+    <string name="bEnviar">ENVIAR</string>
+
+    <string name="PrecioFinal">$ 0</string>
+
+
+</resources>

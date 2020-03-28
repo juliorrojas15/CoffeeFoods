@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="Blanco">#FFFFFF</color>
+    <color name="Negro">#000000</color>
+    <color name="Gris">#E7E7E7</color>
+
+    <color name="BeigeCoffee">#FCFDF3A4</color>
+    <color name="RojoCoffee">#C71212</color>
+
+
+    <color name="RojoRelleno">#F44336</color>
+    <color name="RojoBorde">#C52213</color>
+    <color name="AzulRelleno">#03A9F4</color>
+    <color name="AzulBorde">#03A9F4</color>
+    <color name="VerdeRelleno">#94F731</color>
+    <color name="VerdeBorde">#4CAF50</color>
+    <color name="GrisRelleno">#E0DDDD</color>
+    <color name="GrisBorde">#9B9898</color>
+    <color name="AmarilloRelleno">#FFEB3B</color>
+    <color name="AmarilloBorde">#FFC107</color>
+    <color name="CaféRelleno">#C89E835A</color>
+    <color name="CaféBorde">#665522</color>
+
+</resources>
